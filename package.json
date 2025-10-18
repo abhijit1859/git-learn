@@ -1,0 +1,26 @@
+{
+  "name": "dev-ops",
+  "version": "1.0.0",
+  "main": "index.js",
+ 
+  "scripts": {
+    "dev":"node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijit1859/git-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/abhijit1859/git-learn/issues"
+  },
+  "homepage": "https://github.com/abhijit1859/git-learn#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
